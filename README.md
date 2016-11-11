@@ -1,4 +1,5 @@
 # LingPy-Cookbook: Brief coding examples for LingPy
 
-* [Cognates: strict and loose encoding](https://github.com/lingpy/cookbook/blob/master/cognates-partial-strict-loose.ipynb)
+* [Logging in LingPy](logging.ipynb)
+* [Cognates: strict and loose encoding](cognates-partial-strict-loose.ipynb)
 
